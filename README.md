@@ -1,4 +1,4 @@
-# Project-7-Car-preifction
+# Project-7-Car-prediction
 
 В ходе выполнения проектной работой применены следующие методы:
 transfer learning и fine-tuning 
